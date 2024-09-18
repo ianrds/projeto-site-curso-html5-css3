@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
+body {  
+    background-color: hsl(165, 83%, 91%); 
+    color: #1b1310;
+}
